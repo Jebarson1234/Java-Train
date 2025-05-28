@@ -1,0 +1,106 @@
+In 1978 - C
+	by Dennis Ritchie
+DRAWBACKS
+1) not good handling memory
+2) No exception handling
+3) it doesn't follows OOPS paradigm.
+
+In 1979 - C++
+	by Bjarne stroustrip
+DRAWBACKS
+1) Pointers
+2) Operator overloading using virtual function.
+3) no platform independent.
+
+In 1991 Python
+
+1995 - JAVA programming 
+	by james gosling
+FEATURES
+1) Simple
+2) Robust (meaning powerful)
+3) Platform Independent (by using JVM)
+	- jdk is platform independent
+	- jvm is platform dependent
+4) It follows OOPS paradigm.
+5) Good in memory management
+	- garbage collector
+6) It is Multi-Threaded Language
+7) It handles Exception Handling.
+8) Distributed Language
+	- for web applications
+	- for embedded system
+	- for TCP/IP protocals
+9) It is protable.
+
+FLOW
+filename.java --> |compiler| --> filename.class 
+
+OOPS - Object Oriented Programming
+POP - Procedural Oridented Programming
+
+JDK - Java Development Kit 
+JRE - Java Realtime Environment
+JVM - Java Virtual Machine
+JIT - Just In Time interpreter (Double checks the bytecode)
+
+J2SE - JAVA 2 STANDARD EDITION (Core JAVA)
+J2EE - JAVA 2 ENTERPRISE EDITION 
+J2ME - JAVA 2 MICRO EDITION
+
+JCSD - JAVA CERTIFIED SUN DEVELOPER
+JCOD - JAVA CERTIFIED ORACLE DEVELOPER
+
+4 PILLARS for OOPS
+1) Encapsulation
+2) Polymorphism
+3) Inheritance
+4) Abstraction
+
+DATATYPES
+byte    - 1 byte
+short	- 2 bytes
+int	- 4 bytes
+long	- 8 bytes
+float	- 4 bytes
+double	- 8 bytes
+boolean	- 1 bit
+char	- 2 bytes
+
+TYPE CASTING
+1) narrow typecasting (reducing the datatype)
+2) Widining typecasting (increase the datatype)
+
+OPERATOR
+1) Arithmetic (+, -, *, /, %)
+2) Relational (<, >, <=, >=, ==, !=)
+3) Assignment (=, +=, -=, *=, /=)
+4) Logical (&&, ||, !)
+5) Bitwise (&, |, ^, ~, <<, >>, >>>)
+6) Unary ()
+7) Ternary
+8) Comma
+
+<< -> N*2pow(n)
+>> -> N/2pow(n)
+>>> -> N/2pow(n) (positive)
+
+TYPES OF VARIABLE
+1) Local Variable
+2) Instance or Global Variable
+3) Static Variable
+
+* IS the java 100% oops? - No
+* Simula is considered as the first OOPS language.
+* The history of JAVA starts from Green Team. 
+* JAVA has named by javabeans in Indonesia.
+* Other than '$' and '_' we can't able use any special symbols
+* \u denotes unicode. which has all language like english, tamil, etc.
+* Static means common to all objects.
+
+GITHUB SESSION:
+-> To initialize the git execute "git init" in the local repo.
+-> 
+
+Question
+Write a program to find the given number is even or odd with modules and without modules
