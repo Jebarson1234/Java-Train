@@ -3,3 +3,9 @@ If-else
 If- elseIf
 Nested If
 switch statement
+
+Question:
+#write a program to swap a variable  with the help of third variable and without the help of third variable 
+#write a program for to find the greatest of three number 
+#write a program for to find the greatest of two number
+#write a program to print the 2 table 
