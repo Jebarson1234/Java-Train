@@ -1,17 +1,17 @@
-import java.util.Scanner;
-public class ArmstrongNumber9{
+public class ArmstrongNumber9 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        int original = num, sum = 0;
-        while (num != 0) {
-            int digit = num % 10;
+        int n = 153;
+        int temp = n;
+        int sum = 0;
+        while (temp != 0) {
+            int digit = temp % 10;
             sum += digit * digit * digit;
-            num /= 10;
+            temp /= 10;
         }
-        if (sum == original)
-            System.out.println("It is an Armstrong number.");
-        else
-            System.out.println("It is not an Armstrong number.");
+        if (sum == n) {
+            System.out.println("yes");
+        } else {
+            System.out.println("no");
+        }
     }
 }
