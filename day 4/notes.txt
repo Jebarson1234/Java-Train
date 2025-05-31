@@ -1,0 +1,15 @@
+# Problems
+1) Write a program to find the count of digit?
+2) Write a program to find the divisor of the given number?
+3) Write a program to print the count of divisor?
+4) Write a program to find the common divisible of 3 and 5 upto 100?
+5) Write a program to find the common divisor of the given numbers?
+6)Write a program to find the LCM and GCD of the given number?
+
+#Formula of LCM= a*b/gcd(a/b)
+
+7)write a program to print the sum of digit?
+8)write a program to reverse the give number?
+9)write a program to find the given num is Armstrong or not?
+10)write a program to find the factorial of a given number?
+11)write a program to find the given number is prime number or not and Then also print numbers from 1 to 10?

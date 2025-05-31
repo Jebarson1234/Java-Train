@@ -1,0 +1,25 @@
+1. write a program to find the factorial of the given number
+2. write a program to find the spuare root of the given number
+3. write a program to find the given number is strong number or not 
+4. write a program to find the exponential of the given number
+5. write a program to find the given number is spy number or not 
+6. write a program to find the given number is neon number or not 
+
+#method
+1. Static-common to all object
+2. Non-Static
+
+#Method Type
+1. without Return value without Argument
+2. without Return value with Argument
+3. with Return value without Argument
+4. with Return value with Argument
+
+Bit manipulation
+step 1 make a mask with the given position the flip all with the help of bitwise ma
+step 2
+step 3 
+
+clear last ith bit
+make a mask with the position
+make bit wise and store it in n then return 
