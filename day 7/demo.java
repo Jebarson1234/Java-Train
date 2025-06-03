@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class demo {
+public class Demo {
     public static void main(String[] args) {
         int a[] = { 1, 2, 3, 4, 5 };
         int k = 5;
@@ -26,7 +26,7 @@ public class demo {
         reverse(k, n-1, a);
         reverse(0, n-1, a);
     }
-
+ 
     public static void reverse(int start, int end, int a[]) {
         while(start<=end)
         {
