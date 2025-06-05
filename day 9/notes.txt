@@ -1,0 +1,24 @@
+Topic
+string and string method 
+String Buffer and string Builder
+
+StringBuilder - non synchronized class - java - lang - mutable class - JDK 1.5->
+a mutable sequence of characters this class provides an API compatible with 
+String Builder is not thread safe
+all method are not synchronized method
+Method(String Buffer)
+replace (start, end ,"char seq")
+hashcode()
+
+Method (string Builder)
+append()
+insert(offset, "char seq")
+reverse()
+deletedCharAt(index)
+replace(start, end "char seq")
+
+Problem 
+write a program to check the given string is palindrom or not?
+write a program to remove outmost paranthesis?
+write a program to convert String to number?
+write a program to find the largest odd number in string?
