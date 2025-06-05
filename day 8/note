@@ -13,3 +13,39 @@
    "the quick brown fox jumps over the lazy dog"
 7. Write a program to find the longestcommonprefix in a given string?
 8. Write a program to find the isomorphic string?
+
+String
+String is class it represent a sequece of characters
+String is immutable in nature 
+
+String method 
+length()
+isBlank()
+isEmpty()
+
+comparison method:
+equal()
+equalsIgnoreCase()
+compareTo()
+compareToIgnoreCase()
+startwith(prefix, fromIndex)
+endswith()
+contentEquals(charSeq)
+contentEquals(StringBuffer)
+contains()
+
+Search Method
+indexOf("ASCII/character seq")
+indexOf("ASCII/character seq", from index)
+
+
+toLowercase()
+toUpperCase()
+
+matches()
+replace()
+replacefirst()
+replaceAll()
+split()
+join()
+ 
