@@ -1,0 +1,29 @@
+interface
+Set of rules or contract
+in java an interface is a reference type that defines a set of abstract method along with some optional constrain (Static final field). An interface can also include default methods, static
+method and nested type.
+
+class: Template 
+by default method in the interface are abstract
+by default all method  in the interface are public 
+do not reduce visibility of the methods 
+private access  modifier is not allowed in interface 
+Variable (fields or global variable) in the interface are by default final and static 
+
+global variable/Fields/Variable---->private , protected modifier not allowed
+
+Differences
+[interface]					[Abstract]
+all method are abstract till java8		one method can be abstract
+all variables are static and final		no , not compulsory
+uses implement keyword				uses extended keyword
+
+
+#Assignments 
+
+1) Create a class called Theatre
+2) Have main method in it.
+3) Create an instance[object] talled raja of Theatre class.
+4) Call method bookTicket(200) eg. raja.book.Ticket(200).
+5) Have method signature for bookTicket method with necessary
+

@@ -1,0 +1,27 @@
+Polymorphism
+    #methods of overloading
+    1. if a class has multiple having some name but. different in parameters, it is know as method overloading
+    2. method overloading increase the readablity of a program 
+    3. the run time Polymorphism can be achieved by method overloading
+    4. compile time Polymorphism is achieved by method overloading
+
+'this' keyword is java that reffer to the current 
+instance of the class in OOPs it is used for 
+    1. pass the current object as a parameter to another method
+    2. refer to the current class instance variable
+
+inheritence
+it is a process in which one object accuires all the properties and behaviour of its parent object automatically such the way you can reverse
+Types 
+Single inheritence when one class inherit another class it is known as single level inheritence
+hierachical inheritence it is defined as the process of deriving more than one class form the base class
+hybrid inheritence is combination of single and multiple inheritence and hierachical inheritence
+
+classA      classA          classA
+
+
+classB      classB      classB      classC
+
+
+            classC
+             

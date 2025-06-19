@@ -1,0 +1,25 @@
+List: Grosery List
+Duplicate elements are allowed
+Insertion order is maintained
+
+ArrayList
+Reziable array implementation of List interface
+Insertion and delection of elements at first and middle position need more shift operation (Disadvantage)
+default size of array list is 10
+
+Methods is ArrayList
+add(object e)
+add(index i, Object e)
+size()
+contains(Object e)
+hasCode(Object e)
+remove(index i)
+remove(Object e)
+get(index)
+indexOf(Objecte)
+lastIndexOf(Object e)
+isEmpty()
+addAll(Object l)
+removeAll(Object l)
+set(index i, Object e)
+subList(startIdex i, endIndex i)

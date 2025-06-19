@@ -1,0 +1,45 @@
+task 1
+1. Create a package called bank.chennai.
+2. Create a public class called 'SBI'.
+3. Have default non-static variables String empName, empid.
+4. Have default static variable branch name = 'chennai'
+5. Create two default, non-static methods get_loan(int amount), create_account() with void as return datatype.
+6. Now, in the same package(bank.chennai), create one more default class called Account_Holder.
+7. Have main method in this class.
+8. Try to access all static, non-static variables and non-static methods in SBI class.
+9. Create another package called bank.madurai.
+10 In this package, create default class called x
+
+task 2
+create a class called "Grandma"
+Declare field as below in it 
+	String name = "Stella";
+Have below methods in it 
+	public void work()
+have print Statement as you with in the above methods definition
+Mpther:
+
+
+Exception Handling
+whenever exception occurs the corresponding exception object will be thrown
+
+Throwable class
+it is the superclass of all error and exception in java language.
+
+exception 
+checked - compile time exception
+unchecked - runtime exception
+
+Stack line no
+exception name
+message exception
+
+Error
+it is a subclass of throwable class that indicates serious problem that a reasonable application should not try to catch. Most such error are abnormal condition 
+
+Exception 
+the class Exception and its subclass are a form of throwable that indicates condition that a reasonable application might want to catch
+
+runtime exception and its subclass are 
+unchecked exception   	
+ 
